@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+ddate (0.2.2-1) unstable; urgency=low
 
-  * Initial release
+  * Initial release (Closes: #764325)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sebastian Schmidt <yath@yath.de>  Tue, 07 Oct 2014 10:46:38 +0200
